@@ -20,6 +20,10 @@
 - I like languages
 - I like cooking
 
+<br>
+
 - I dislike hot days in summer
----
+
+## Brick wall
+
 ![brick wall](brick-wall.jpg)
